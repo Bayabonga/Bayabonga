@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Analysis and Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/lucky-rolypoly-2f8c87/](https://app.netlify.com/sites/lucky-rolypoly-2f8c87/)
+- 👨‍💻 All of my projects are available at [https://lucky-rolypoly-2f8c87.netlify.app/](https://app.netlify.com/sites/lucky-rolypoly-2f8c87/)
 
 - 📝 I regularly write articles on [https://substack.com/@thetechbox?utm_source=user-menu](https://substack.com/@thetechbox?utm_source=user-menu)
 
