@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://substack.com/@thetechbox?utm_source=user-menu"
+                feed_list: "https://thetechbox.substack.com/feed"
