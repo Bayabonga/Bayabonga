@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/lucky-rolypoly-2f8c87/](https://app.netlify.com/sites/lucky-rolypoly-2f8c87/)
 
-- 📝 I regularly write articles on [https://substack.com/@thetechbox?utm_source=user-menu](https://substack.com/@thetechbox?utm_source=user-menu)
+- 📝 I regularly write articles on [https://thetechbox.substack.com/feed](https://thetechbox.substack.com/feed)
 
 - 📫 How to reach me **bayabonganhlabatsi@gmail.com**
 
