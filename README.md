@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bayabonga Nhlabatsi</h1>
 <h3 align="center">I'm a software developer who is a button pressing expert( have an understanding to press buttons in the right order to create software) and a wizard in reading magical text to get things to work.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayabonga&label=Profile%20views&color=0e75b6&style=flat" alt="bayabonga" /> </p>
-
 - 🌱 I’m currently learning **Data Analysis and Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/lucky-rolypoly-2f8c87/](https://app.netlify.com/sites/lucky-rolypoly-2f8c87/)
