@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bayabonga Nhlabatsi</h1>
 <h3 align="center">Learning to be better than I was before.</h3>
 
-- 🌱 I’m currently learning **Data Analysis, AI and Software Development**
+- 🌱 I’m currently learning **Data Analysis, AI and Software Development Frameworks**
 
 - 👨‍💻 My Portfolio website is available at [https://meek-zuccutto-827a0f.netlify.app](https://meek-zuccutto-827a0f.netlify.app)
 
