@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bayabonga Nhlabatsi</h1>
-<h3 align="center">I'm a software developer who is a button pressing expert( have an understanding to press buttons in the right order to create software) and a wizard in reading magical text to get things to work.</h3>
+<h3 align="center">Learning to be better than I was before.</h3>
 
 - 🌱 I’m currently learning **Data Analysis and Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/lucky-rolypoly-2f8c87/](https://app.netlify.com/sites/lucky-rolypoly-2f8c87/)
+- 👨‍💻 My Portfolio website is available at [https://meek-zuccutto-827a0f.netlify.app](https://meek-zuccutto-827a0f.netlify.app)
 
 - 📝 I regularly write articles on [https://thetechbox.substack.com/feed](https://thetechbox.substack.com/feed)
 
